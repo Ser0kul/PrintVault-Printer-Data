@@ -1,0 +1,4 @@
+# Printer Data Repository
+# Dependencies for automated extraction scripts
+
+requests>=2.31.0
