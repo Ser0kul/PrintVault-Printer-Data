@@ -10,7 +10,7 @@ Source: https://github.com/SoftFever/OrcaSlicer
 import requests
 import re
 import json
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Union
 
 # --- CONFIGURATION ---
 GITHUB_API_BASE = "https://api.github.com/repos/SoftFever/OrcaSlicer"
@@ -26,6 +26,27 @@ BLACKLIST_KEYWORDS = [
     'sheet', 'smooth', 'textured', 'satin', 'cool', 'engineering', 
     'high temp', 'hardened', 'chamber', 'auxiliary'
 ]
+
+
+def safe_float(value: Union[str, int, float, list, None], default: float = 0.0) -> float:
+    """
+    Safely converts a value to float.
+    Handles: strings, numbers, lists (takes first element), None.
+    """
+    if value is None:
+        return default
+    
+    # If it's a list, take the first element
+    if isinstance(value, list):
+        if len(value) == 0:
+            return default
+        value = value[0]
+    
+    # Try to convert to float
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        return default
 
 
 def get_brands() -> List[str]:
@@ -80,8 +101,13 @@ def parse_volume(data: Dict) -> Dict[str, float]:
     """
     Extracts print volume from OrcaSlicer machine JSON.
     Returns dict with x, y, z dimensions in mm.
+    
+    Handles various formats:
+    - printable_area as polygon string list ["0x0", "250x0", "250x210", "0x210"]
+    - printable_height as number or list
+    - bed_width/bed_depth as direct values
     """
-    volume = {"x": 0, "y": 0, "z": 0}
+    volume = {"x": 0.0, "y": 0.0, "z": 0.0}
     
     # Method 1: printable_area (polygon)
     if 'printable_area' in data:
@@ -101,16 +127,18 @@ def parse_volume(data: Dict) -> Dict[str, float]:
                 volume['x'] = round(max(x_coords) - min(x_coords), 2)
                 volume['y'] = round(max(y_coords) - min(y_coords), 2)
     
-    # Method 2: Direct values
+    # Method 2: Direct values (fallback)
     if volume['x'] == 0:
-        volume['x'] = float(data.get('bed_width', 0))
-        volume['y'] = float(data.get('bed_depth', 0))
+        volume['x'] = safe_float(data.get('bed_width'), 0)
+        volume['y'] = safe_float(data.get('bed_depth'), 0)
     
-    # Height
+    # Height - Handle both number and list formats
     if 'printable_height' in data:
-        volume['z'] = float(data['printable_height'])
+        volume['z'] = safe_float(data['printable_height'], 0)
     elif 'machine_max_print_height' in data:
-        volume['z'] = float(data['machine_max_print_height'])
+        volume['z'] = safe_float(data['machine_max_print_height'], 0)
+    elif 'max_print_height' in data:
+        volume['z'] = safe_float(data['max_print_height'], 0)
     
     return volume
 
@@ -204,7 +232,12 @@ def extract_fdm_printers() -> List[Dict]:
             seen.add(unique_key)
             
             # Parse volume
-            volume = parse_volume(data)
+            try:
+                volume = parse_volume(data)
+            except Exception as e:
+                print(f"   ⚠️ Error parsing volume for {brand} {model}: {e}")
+                continue
+                
             if volume['x'] < 10:  # Skip invalid entries
                 continue
             
