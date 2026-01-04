@@ -840,6 +840,126 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "Chuanying",
+    "model": "fdm_x1_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 220.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Co Print",
+    "model": "ChromaSet",
+    "technology": "FDM",
+    "volume": {
+      "x": 290.0,
+      "y": 283.0,
+      "z": 330.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Co%20Print/Co%20Print%20ChromaSet_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Co Print",
+    "model": "fdm_coprint_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CoLiDo",
+    "model": "160 V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 160.0,
+      "y": 160.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/CoLiDo/CoLiDo%20160%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CoLiDo",
+    "model": "DIY 4.0",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 220.0,
+      "z": 230.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/CoLiDo/CoLiDo%20DIY%204.0_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CoLiDo",
+    "model": "DIY 4.0 V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 230.0,
+      "z": 255.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/CoLiDo/CoLiDo%20DIY%204.0%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CoLiDo",
+    "model": "SR1",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 251.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/CoLiDo/CoLiDo%20SR1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CoLiDo",
+    "model": "X16",
+    "technology": "FDM",
+    "volume": {
+      "x": 160.0,
+      "y": 160.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/CoLiDo/CoLiDo%20X16_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Comgrow",
+    "model": "T300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Comgrow/Comgrow%20T300_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Comgrow",
+    "model": "T500",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Comgrow/Comgrow%20T500_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Concepts3D",
     "model": "Athena 12K",
     "technology": "SLA",
@@ -862,6 +982,30 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "CONSTRUCT3D",
+    "model": "Construct 1",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 260.0,
+      "z": 180.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "CONSTRUCT3D",
+    "model": "Construct 1 XL",
+    "technology": "FDM",
+    "volume": {
+      "x": 325.0,
+      "y": 370.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Creality",
@@ -985,6 +1129,90 @@
   },
   {
     "brand": "Creality",
+    "model": "CR-10 Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 450.0,
+      "y": 450.0,
+      "z": 470.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-10%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-10 SE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 265.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-10%20SE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-10 V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-10%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-10 V3",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-10%20V3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-6 Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 390.0,
+      "y": 390.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-6%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-6 SE",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 235.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-6%20SE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "CR-M4",
+    "technology": "FDM",
+    "volume": {
+      "x": 450.0,
+      "y": 450.0,
+      "z": 470.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20CR-M4_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
     "model": "CT-005",
     "technology": "SLA",
     "volume": {
@@ -1006,6 +1234,294 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 S1",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 270.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20S1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 S1 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20S1%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 S1 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 270.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20S1%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V2 Neo",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V2%20Neo_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V3",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V3 KE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 245.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V3%20KE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V3 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 330.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V3%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-3 V3 SE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-3%20V3%20SE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-5",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-5_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-5 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-5%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-5 Pro (2019)",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-5%20Pro%20(2019)_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-5 S1",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-5%20S1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-5S",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-5S_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Ender-6",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Ender-6_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "Hi",
+    "technology": "FDM",
+    "volume": {
+      "x": 260.0,
+      "y": 260.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Hi_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K1",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K1 Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K1%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K1 SE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K1%20SE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K1C",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K1C_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K2 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K2%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Creality",
+    "model": "K2 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20K2%20Pro_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Creality",
@@ -1042,6 +1558,162 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Creality",
+    "model": "Sermoon V1",
+    "technology": "FDM",
+    "volume": {
+      "x": 175.0,
+      "y": 175.0,
+      "z": 165.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Creality/Creality%20Sermoon%20V1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Cubicon",
+    "model": "xCeler-I",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 290.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Cubicon/Cubicon%20xCeler-I_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Custom",
+    "model": "Generic Klipper Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Custom",
+    "model": "Generic Marlin Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Custom",
+    "model": "Generic RRF Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Custom",
+    "model": "Generic ToolChanger Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "DeltaMaker",
+    "model": "2",
+    "technology": "FDM",
+    "volume": {
+      "x": 276.0,
+      "y": 240.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/DeltaMaker/DeltaMaker%202_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "DeltaMaker",
+    "model": "2T",
+    "technology": "FDM",
+    "volume": {
+      "x": 276.0,
+      "y": 240.0,
+      "z": 460.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/DeltaMaker/DeltaMaker%202T_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "DeltaMaker",
+    "model": "2XT",
+    "technology": "FDM",
+    "volume": {
+      "x": 276.0,
+      "y": 240.0,
+      "z": 565.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/DeltaMaker/DeltaMaker%202XT_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Dremel",
+    "model": "3D20",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 150.0,
+      "z": 140.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Dremel/Dremel%203D20_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Dremel",
+    "model": "3D40",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 155.0,
+      "z": 170.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Dremel/Dremel%203D40_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Dremel",
+    "model": "3D45",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 155.0,
+      "z": 170.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Dremel/Dremel%203D45_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "fdm_elegoo_3dp_001_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 0.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Elegoo",
@@ -1198,6 +1870,174 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune",
+    "technology": "FDM",
+    "volume": {
+      "x": 210.0,
+      "y": 210.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%202_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 2D",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%202D_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 2S",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%202S_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 3",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 280.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%203_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 3 Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 500.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%203%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 3 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%203%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 3 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 280.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%203%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 4",
+    "technology": "FDM",
+    "volume": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 265.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%204_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 4 Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 480.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%204%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 4 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 385.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%204%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune 4 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 235.0,
+      "y": 230.0,
+      "z": 265.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%204%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "Neptune X",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20Neptune%20X_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Elegoo",
+    "model": "OrangeStorm Giga",
+    "technology": "FDM",
+    "volume": {
+      "x": 810.0,
+      "y": 805.0,
+      "z": 1010.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Elegoo/Elegoo%20OrangeStorm%20Giga_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Elegoo",
@@ -1512,6 +2352,42 @@
     "source": "UVtools"
   },
   {
+    "brand": "Eryone",
+    "model": "fdm_machine_eryone_ER20_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 243.0,
+      "y": 220.0,
+      "z": 200.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Eryone",
+    "model": "Thinker X400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "AD5X",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 220.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Flashforge/Flashforge%20AD5X_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "FlashForge",
     "model": "Explorer MAX",
     "technology": "SLA",
@@ -1522,6 +2398,42 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "fdm_adventurer3_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 150.0,
+      "y": 150.0,
+      "z": 150.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "fdm_adventurer4_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 200.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "fdm_adventurer5m_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 220.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "FlashForge",
@@ -1596,6 +2508,54 @@
     "source": "UVtools"
   },
   {
+    "brand": "Flashforge",
+    "model": "Guider 2s",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 250.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Flashforge/Flashforge%20Guider%202s_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "Guider 3 Ultra",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 330.0,
+      "z": 600.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Flashforge/Flashforge%20Guider%203%20Ultra_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "Guider4",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Flashforge/Flashforge%20Guider4_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Flashforge",
+    "model": "Guider4 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Flashforge/Flashforge%20Guider4%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "FlashForge",
     "model": "Hunter",
     "technology": "SLA",
@@ -1608,6 +2568,378 @@
     "source": "UVtools"
   },
   {
+    "brand": "FLSun",
+    "model": "Q5",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20Q5_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FLSun",
+    "model": "QQ-S Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 260.0,
+      "y": 260.0,
+      "z": 360.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20QQ-S%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FLSun",
+    "model": "S1",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 430.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20S1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FLSun",
+    "model": "Super Racer (SR)",
+    "technology": "FDM",
+    "volume": {
+      "x": 270.0,
+      "y": 270.0,
+      "z": 330.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20Super%20Racer%20(SR)_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FLSun",
+    "model": "T1",
+    "technology": "FDM",
+    "volume": {
+      "x": 260.0,
+      "y": 260.0,
+      "z": 330.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20T1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FLSun",
+    "model": "V400",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 410.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FLSun/FLSun%20V400_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FlyingBear",
+    "model": "Generic Klipper Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 350.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FlyingBear",
+    "model": "Ghost 6",
+    "technology": "FDM",
+    "volume": {
+      "x": 255.0,
+      "y": 210.0,
+      "z": 210.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FlyingBear/FlyingBear%20Ghost%206_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FlyingBear",
+    "model": "Reborn3",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/FlyingBear/FlyingBear%20Reborn3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Folgertech",
+    "model": "FT-5",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Folgertech/Folgertech%20FT-5_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Folgertech",
+    "model": "FT-6",
+    "technology": "FDM",
+    "volume": {
+      "x": 700.0,
+      "y": 350.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Folgertech/Folgertech%20FT-6_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Folgertech",
+    "model": "i3",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 175.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Folgertech/Folgertech%20i3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A10 M",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A10%20M_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A10 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A10%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A10 T",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A10%20T_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A20",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A20_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A20 M",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A20%20M_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A20 T",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A20%20T_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A30 M",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 420.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A30%20M_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A30 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 420.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A30%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "A30 T",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 420.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20A30%20T_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "M1",
+    "technology": "FDM",
+    "volume": {
+      "x": 105.0,
+      "y": 105.0,
+      "z": 95.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20M1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Mizar",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Mizar_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Mizar M",
+    "technology": "FDM",
+    "volume": {
+      "x": 255.0,
+      "y": 255.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Mizar%20M_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Mizar Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Mizar%20Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Mizar Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Mizar%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Mizar S",
+    "technology": "FDM",
+    "volume": {
+      "x": 255.0,
+      "y": 255.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Mizar%20S_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Geeetech",
+    "model": "Thunder",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Geeetech/Geeetech%20Thunder_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ginger Additive",
+    "model": "fdm_machine_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 1000.0,
+      "y": 1000.0,
+      "z": 1000.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "InfiMech",
+    "model": "Generic Klipper Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "InfiMech",
+    "model": "TX",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/InfiMech/InfiMech%20TX_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Kelant",
     "model": "S400",
     "technology": "SLA",
@@ -1618,6 +2950,66 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "fdm_machine_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KLP1",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 230.0,
+      "z": 210.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KLP1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S 3.0",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%203.0_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S PRO V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 205.0,
+      "y": 205.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20PRO%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S V1",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20V1_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Longer",
@@ -1666,6 +3058,66 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz 4 or 5",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Lulzbot/Lulzbot%20Taz%204%20or%205_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz 6",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Lulzbot/Lulzbot%20Taz%206_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz Pro Common",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 280.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "M3D",
+    "model": "Enabler D8500 MM Model",
+    "technology": "FDM",
+    "volume": {
+      "x": 210.0,
+      "y": 150.0,
+      "z": 0.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/M3D/M3D%20Enabler%20D8500%20MM%20Model_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "M3D",
+    "model": "fdm_machine_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 210.0,
+      "y": 150.0,
+      "z": 0.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Nova3D",
