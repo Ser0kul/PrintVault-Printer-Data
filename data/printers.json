@@ -2928,6 +2928,30 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "InfiMech",
+    "model": "Generic Klipper Printer",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "InfiMech",
+    "model": "TX",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/InfiMech/InfiMech%20TX_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Kelant",
     "model": "S400",
     "technology": "SLA",
@@ -2938,6 +2962,66 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "fdm_machine_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KLP1",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 230.0,
+      "z": 210.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KLP1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S 3.0",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%203.0_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S PRO V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 205.0,
+      "y": 205.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20PRO%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Kingroon",
+    "model": "KP3S V1",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20V1_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Longer",
@@ -2986,6 +3070,42 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz 4 or 5",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Lulzbot/Lulzbot%20Taz%204%20or%205_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz 6",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Lulzbot/Lulzbot%20Taz%206_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Lulzbot",
+    "model": "Taz Pro Common",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 280.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Nova3D",
