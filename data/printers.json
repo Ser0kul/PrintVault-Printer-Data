@@ -3108,6 +3108,102 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "M3D",
+    "model": "Enabler D8500 MM Model",
+    "technology": "FDM",
+    "volume": {
+      "x": 210.0,
+      "y": 150.0,
+      "z": 0.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/M3D/M3D%20Enabler%20D8500%20MM%20Model_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "M3D",
+    "model": "fdm_machine_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 210.0,
+      "y": 150.0,
+      "z": 0.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "MagicMaker",
+    "model": "MM BoneKing",
+    "technology": "FDM",
+    "volume": {
+      "x": 310.0,
+      "y": 306.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "MagicMaker",
+    "model": "MM hj SK",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 210.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "MagicMaker",
+    "model": "MM hqs hj",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 210.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "MagicMaker",
+    "model": "MM hqs SF",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 210.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "MagicMaker",
+    "model": "MM slb",
+    "technology": "FDM",
+    "volume": {
+      "x": 125.0,
+      "y": 125.0,
+      "z": 160.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Mellow",
+    "model": "M1",
+    "technology": "FDM",
+    "volume": {
+      "x": 106.0,
+      "y": 106.0,
+      "z": 100.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Nova3D",
     "model": "Bene4",
     "technology": "SLA",
@@ -3240,6 +3336,42 @@
     "source": "UVtools"
   },
   {
+    "brand": "OpenEYE",
+    "model": "Peacock V2",
+    "technology": "FDM",
+    "volume": {
+      "x": 233.5,
+      "y": 228.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/OpenEYE/OpenEYE%20Peacock%20V2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "OrcaArena",
+    "model": "fdm_bbl_3dp_001_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Peopoly",
+    "model": "Magneto X",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 400.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Peopoly/Peopoly%20Magneto%20X_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Peopoly",
     "model": "Phenom",
     "technology": "SLA",
@@ -3310,6 +3442,18 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Phrozen",
+    "model": "Arco",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Phrozen/Phrozen%20Arco_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Phrozen",
@@ -3516,6 +3660,126 @@
     "source": "UVtools"
   },
   {
+    "brand": "Positron3D",
+    "model": "The Positron",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 165.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "CORE One HF",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 220.0,
+      "z": 270.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20CORE%20One%20HF_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "CORE One L HF",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 331.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20CORE%20One%20L%20HF_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "fdm_machine_common_xl",
+    "technology": "FDM",
+    "volume": {
+      "x": 360.0,
+      "y": 360.0,
+      "z": 360.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MINI",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MINI_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MINI IS",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MINI%20IS_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MK3.5",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 210.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MK3.5_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MK3S",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 210.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MK3S_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MK4",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 220.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MK4_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Prusa",
+    "model": "MK4S",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 220.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Prusa/Prusa%20MK4S_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Prusa",
     "model": "SL1",
     "technology": "SLA",
@@ -3552,6 +3816,30 @@
     "source": "UVtools"
   },
   {
+    "brand": "Qidi",
+    "model": "Q1 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 245.0,
+      "y": 245.0,
+      "z": 240.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20Q1%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "Q2",
+    "technology": "FDM",
+    "volume": {
+      "x": 270.0,
+      "y": 270.0,
+      "z": 256.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20Q2_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "QIDI",
     "model": "S-Box",
     "technology": "SLA",
@@ -3586,6 +3874,102 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-CF Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 250.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-CF%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Max",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 250.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Max_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Max 3",
+    "technology": "FDM",
+    "volume": {
+      "x": 325.0,
+      "y": 325.0,
+      "z": 315.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Max%203_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Max 4",
+    "technology": "FDM",
+    "volume": {
+      "x": 390.0,
+      "y": 390.0,
+      "z": 340.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Max%204_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 270.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Plus 3",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 270.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Plus%203_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Plus 4",
+    "technology": "FDM",
+    "volume": {
+      "x": 305.0,
+      "y": 305.0,
+      "z": 280.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Plus%204_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
+    "model": "X-Smart 3",
+    "technology": "FDM",
+    "volume": {
+      "x": 175.0,
+      "y": 180.0,
+      "z": 170.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Smart%203_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Uniformation",
