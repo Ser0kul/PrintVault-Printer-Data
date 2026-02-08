@@ -3972,6 +3972,318 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "Raise3D",
+    "model": "Pro3",
+    "technology": "FDM",
+    "volume": {
+      "x": 340.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Raise3D/Raise3D%20Pro3_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Raise3D",
+    "model": "Pro3 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 340.0,
+      "y": 300.0,
+      "z": 605.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Raise3D/Raise3D%20Pro3%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Cast",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 3 200",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 3 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 3 400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 3 500",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 500",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 HYBRID 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 HYBRID 400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 HYBRID 500",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 300 COPY MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 150.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 300 MIRROR MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 120.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 400 COPY MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 400 MIRROR MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 170.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 500",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 500 COPY MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Core 4 IDEX 500 MIRROR MODE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Ratrig",
+    "model": "V-Minion",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "RH3D",
+    "model": "E3NG v1.2S",
+    "technology": "FDM",
+    "volume": {
+      "x": 232.0,
+      "y": 232.0,
+      "z": 245.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "RolohaunDesign",
+    "model": "Rolohaun Delta Flyer Refit",
+    "technology": "FDM",
+    "volume": {
+      "x": 110.0,
+      "y": 110.0,
+      "z": 115.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "RolohaunDesign",
+    "model": "Rook MK1 LDO",
+    "technology": "FDM",
+    "volume": {
+      "x": 110.0,
+      "y": 110.0,
+      "z": 111.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Uniformation",
     "model": "GKone",
     "technology": "SLA",
