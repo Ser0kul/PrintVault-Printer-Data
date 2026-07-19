@@ -781,6 +781,30 @@
   },
   {
     "brand": "BBL",
+    "model": "Bambu Lab A2L",
+    "technology": "FDM",
+    "volume": {
+      "x": 330.0,
+      "y": 320.0,
+      "z": 325.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "BBL",
+    "model": "Bambu Lab H2C",
+    "technology": "FDM",
+    "volume": {
+      "x": 330.0,
+      "y": 320.0,
+      "z": 0.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "BBL",
     "model": "Bambu Lab H2D",
     "technology": "FDM",
     "volume": {
@@ -3384,6 +3408,30 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "OrcaArena",
+    "model": "fdm_bbl_3dp_001_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 250.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Peopoly",
+    "model": "Magneto X",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 400.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Peopoly/Peopoly%20Magneto%20X_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Peopoly",
     "model": "Phenom",
     "technology": "SLA",
@@ -3454,6 +3502,18 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Phrozen",
+    "model": "Arco",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Phrozen/Phrozen%20Arco_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Phrozen",
@@ -3658,6 +3718,18 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Positron3D",
+    "model": "The Positron",
+    "technology": "FDM",
+    "volume": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 165.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Prusa",
