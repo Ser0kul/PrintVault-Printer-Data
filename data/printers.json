@@ -4033,6 +4033,18 @@
   },
   {
     "brand": "Qidi",
+    "model": "X-Plus 5",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Qidi/Qidi%20X-Plus%205_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Qidi",
     "model": "X-Smart 3",
     "technology": "FDM",
     "volume": {
@@ -4440,6 +4452,354 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "Snapmaker",
+    "model": "fdm_a250",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 250.0,
+      "z": 230.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_a250_dual",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 250.0,
+      "z": 190.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_a350",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 350.0,
+      "z": 325.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_a350_dual",
+    "technology": "FDM",
+    "volume": {
+      "x": 320.0,
+      "y": 350.0,
+      "z": 285.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_a400",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_idex",
+    "technology": "FDM",
+    "volume": {
+      "x": 324.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "fdm_U1",
+    "technology": "FDM",
+    "volume": {
+      "x": 270.0,
+      "y": 270.0,
+      "z": 270.05
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Snapmaker",
+    "model": "U1",
+    "technology": "FDM",
+    "volume": {
+      "x": 270.0,
+      "y": 270.0,
+      "z": 270.05
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Snapmaker/Snapmaker%20U1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV01",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 240.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV01_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV01 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 240.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV01%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV02",
+    "technology": "FDM",
+    "volume": {
+      "x": 280.0,
+      "y": 240.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV02_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV05",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV05_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV06",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV06_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV06 ACE",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV06%20ACE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV06 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 340.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV06%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV06 Plus ACE",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV06%20Plus%20ACE_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV07",
+    "technology": "FDM",
+    "volume": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV07_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV07 Plus",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV07%20Plus_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV08",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 345.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV08_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "SV08 MAX",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 500.0,
+      "z": 500.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20SV08%20MAX_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Sovol",
+    "model": "Zero",
+    "technology": "FDM",
+    "volume": {
+      "x": 152.4,
+      "y": 152.4,
+      "z": 152.4
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Sovol/Sovol%20Zero_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Tiertime",
+    "model": "UP300 HS",
+    "technology": "FDM",
+    "volume": {
+      "x": 207.0,
+      "y": 255.0,
+      "z": 230.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Tiertime/Tiertime%20UP300%20HS_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Tiertime",
+    "model": "UP310 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Tiertime/Tiertime%20UP310%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Tiertime",
+    "model": "UP400 Pro",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 350.0,
+      "z": 380.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Tiertime/Tiertime%20UP400%20Pro_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Tiertime",
+    "model": "UP600 HS",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 400.0,
+      "z": 600.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Tiertime/Tiertime%20UP600%20HS_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Tronxy",
+    "model": "X5SA 400 Marlin Firmware",
+    "technology": "FDM",
+    "volume": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Tronxy/Tronxy%20X5SA%20400%20Marlin%20Firmware_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "TwoTrees",
+    "model": "SK1",
+    "technology": "FDM",
+    "volume": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/TwoTrees/TwoTrees%20SK1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "TwoTrees",
+    "model": "SP-5 Klipper",
+    "technology": "FDM",
+    "volume": {
+      "x": 310.0,
+      "y": 310.0,
+      "z": 350.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/TwoTrees/TwoTrees%20SP-5%20Klipper_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "UltiMaker",
+    "model": "2",
+    "technology": "FDM",
+    "volume": {
+      "x": 224.0,
+      "y": 225.0,
+      "z": 212.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/UltiMaker/UltiMaker%202_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Uniformation",
     "model": "GKone",
     "technology": "SLA",
@@ -4474,6 +4834,378 @@
     },
     "image_url": null,
     "source": "UVtools"
+  },
+  {
+    "brand": "Vivedino",
+    "model": "Troodon 2.0 - Klipper",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 330.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Vivedino",
+    "model": "Troodon 2.0 - RRF",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 330.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO42",
+    "technology": "FDM",
+    "volume": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 420.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO42 IDRE",
+    "technology": "FDM",
+    "volume": {
+      "x": 372.0,
+      "y": 420.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO42 Performance",
+    "technology": "FDM",
+    "volume": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 420.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO42 Stage 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 420.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO65",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 650.0,
+      "z": 650.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO65 IDRE",
+    "technology": "FDM",
+    "volume": {
+      "x": 602.0,
+      "y": 650.0,
+      "z": 630.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO65 Performance",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 650.0,
+      "z": 650.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "EXO65 Stage 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 650.0,
+      "z": 650.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "SH65",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "SH65 IDRE",
+    "technology": "FDM",
+    "volume": {
+      "x": 602.0,
+      "y": 300.0,
+      "z": 280.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "SH65 Performance",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "SH65 Stage 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 650.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS20MK2",
+    "technology": "FDM",
+    "volume": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 220.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30MK2",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30MK3",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30MK3 Stage 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30SC",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30SC2",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 310.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30SC2 Performance",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 310.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30SC2 Stage 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 200.0,
+      "z": 310.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Volumic",
+    "model": "VS30ULTRA",
+    "technology": "FDM",
+    "volume": {
+      "x": 290.0,
+      "y": 200.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "0.1",
+    "technology": "FDM",
+    "volume": {
+      "x": 120.0,
+      "y": 120.0,
+      "z": 120.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%200.1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "2.4 250",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 225.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%202.4%20250_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "2.4 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 275.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%202.4%20300_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "2.4 350",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 325.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%202.4%20350_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "Switchwire 250",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 240.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%20Switchwire%20250_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "Trident 250",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%20Trident%20250_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "Trident 300",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%20Trident%20300_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Voron",
+    "model": "Trident 350",
+    "technology": "FDM",
+    "volume": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Voron/Voron%20Trident%20350_cover.png",
+    "source": "OrcaSlicer"
   },
   {
     "brand": "Voxelab",
