@@ -2976,6 +2976,30 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "iQ",
+    "model": "TiQ2",
+    "technology": "FDM",
+    "volume": {
+      "x": 330.0,
+      "y": 330.0,
+      "z": 300.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "iQ",
+    "model": "TiQ8",
+    "technology": "FDM",
+    "volume": {
+      "x": 500.0,
+      "y": 400.0,
+      "z": 450.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Kelant",
     "model": "S400",
     "technology": "SLA",
@@ -4329,6 +4353,78 @@
       "z": 180.0
     },
     "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "Gigabot 4",
+    "technology": "FDM",
+    "volume": {
+      "x": 590.0,
+      "y": 600.0,
+      "z": 600.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20Gigabot%204_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "Gigabot 4 XLT",
+    "technology": "FDM",
+    "volume": {
+      "x": 590.0,
+      "y": 760.0,
+      "z": 900.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20Gigabot%204%20XLT_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "GigabotX 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 552.0,
+      "y": 593.0,
+      "z": 470.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20GigabotX%202_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "GigabotX 2 XLT",
+    "technology": "FDM",
+    "volume": {
+      "x": 552.0,
+      "y": 740.0,
+      "z": 470.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20GigabotX%202%20XLT_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "Terabot 4",
+    "technology": "FDM",
+    "volume": {
+      "x": 915.0,
+      "y": 915.0,
+      "z": 1000.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20Terabot%204_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "re3D",
+    "model": "TerabotX 2",
+    "technology": "FDM",
+    "volume": {
+      "x": 892.0,
+      "y": 908.0,
+      "z": 870.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/re3D/re3D%20TerabotX%202_cover.png",
     "source": "OrcaSlicer"
   },
   {

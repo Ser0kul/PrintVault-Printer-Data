@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-23T00:57:54.797038+00:00",
-  "total_printers": 474,
-  "fdm_count": 321,
+  "last_updated": "2026-08-30T03:00:35.162423+00:00",
+  "total_printers": 482,
+  "fdm_count": 329,
   "sla_count": 153,
-  "with_images": 202,
-  "brand_count": 73,
+  "with_images": 208,
+  "brand_count": 75,
   "brands": [
     "Afinia",
     "Anet",
@@ -78,7 +78,9 @@
     "Wanhao France",
     "WonderMaker",
     "Z-Bolt",
-    "Zortrax"
+    "Zortrax",
+    "iQ",
+    "re3D"
   ],
   "sources": {
     "fdm": "https://github.com/SoftFever/OrcaSlicer",
