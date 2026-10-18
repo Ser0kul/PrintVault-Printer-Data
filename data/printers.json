@@ -2412,6 +2412,90 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_food_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 195.0,
+      "z": 150.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_food_double_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 195.0,
+      "z": 150.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_food_switch_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 195.0,
+      "z": 150.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_pro_3_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 235.0,
+      "y": 244.0,
+      "z": 235.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_pro_l_3_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 400.0,
+      "z": 400.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_pro_xl_3_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 600.0,
+      "y": 400.0,
+      "z": 600.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "FELIX Printers",
+    "model": "fdm_felix_tec_common",
+    "technology": "FDM",
+    "volume": {
+      "x": 205.0,
+      "y": 255.0,
+      "z": 255.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "Flashforge",
     "model": "AD5X",
     "technology": "FDM",
@@ -3000,6 +3084,54 @@
     "source": "OrcaSlicer"
   },
   {
+    "brand": "Goofoo",
+    "model": "GP1",
+    "technology": "FDM",
+    "volume": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 250.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Goofoo/Goofoo%20GP1_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Goofoo",
+    "model": "TurboM",
+    "technology": "FDM",
+    "volume": {
+      "x": 230.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Goofoo/Goofoo%20TurboM_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Goofoo",
+    "model": "Velo+",
+    "technology": "FDM",
+    "volume": {
+      "x": 600.0,
+      "y": 500.0,
+      "z": 600.0
+    },
+    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Goofoo/Goofoo%20Velo+_cover.png",
+    "source": "OrcaSlicer"
+  },
+  {
+    "brand": "Goofoo",
+    "model": "Velo+ Tool",
+    "technology": "FDM",
+    "volume": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 0.0
+    },
+    "image_url": null,
+    "source": "OrcaSlicer"
+  },
+  {
     "brand": "IdeaFormer",
     "model": "IR3 V2",
     "technology": "FDM",
@@ -3046,66 +3178,6 @@
     },
     "image_url": null,
     "source": "UVtools"
-  },
-  {
-    "brand": "Kingroon",
-    "model": "fdm_machine_common",
-    "technology": "FDM",
-    "volume": {
-      "x": 200.0,
-      "y": 200.0,
-      "z": 200.0
-    },
-    "image_url": null,
-    "source": "OrcaSlicer"
-  },
-  {
-    "brand": "Kingroon",
-    "model": "KLP1",
-    "technology": "FDM",
-    "volume": {
-      "x": 230.0,
-      "y": 230.0,
-      "z": 210.0
-    },
-    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KLP1_cover.png",
-    "source": "OrcaSlicer"
-  },
-  {
-    "brand": "Kingroon",
-    "model": "KP3S 3.0",
-    "technology": "FDM",
-    "volume": {
-      "x": 180.0,
-      "y": 180.0,
-      "z": 180.0
-    },
-    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%203.0_cover.png",
-    "source": "OrcaSlicer"
-  },
-  {
-    "brand": "Kingroon",
-    "model": "KP3S PRO V2",
-    "technology": "FDM",
-    "volume": {
-      "x": 205.0,
-      "y": 205.0,
-      "z": 200.0
-    },
-    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20PRO%20V2_cover.png",
-    "source": "OrcaSlicer"
-  },
-  {
-    "brand": "Kingroon",
-    "model": "KP3S V1",
-    "technology": "FDM",
-    "volume": {
-      "x": 180.0,
-      "y": 180.0,
-      "z": 180.0
-    },
-    "image_url": "https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/profiles/Kingroon/Kingroon%20KP3S%20V1_cover.png",
-    "source": "OrcaSlicer"
   },
   {
     "brand": "Longer",
